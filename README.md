@@ -1,4 +1,4 @@
-# Akatsuki-pp-Increment-Calculator-ver1.0
+# Akatsuki-pp-Increment-Calculator
 A calculator to return how much pp from a single map you need to obtain to gain certain amount of pp
 
 # Current problem:
